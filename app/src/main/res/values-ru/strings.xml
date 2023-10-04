@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Discord Spammer</string>
+    <string name="network_error">Ошибка сети.\nПроверьте интернет и попробуйте снова</string>
+    <string name="invalid_token">Токен испорчен (или срок его действия истек)</string>
+    <string name="fail_to_load_list_of_guilds">Не удалось загрузить сервера.\nПожалуйста попробуйте снова</string>
+    <string name="fail_to_load_list_of_channels">Не удалось загрузить каналы.\nПожалуйста попробуйте позже</string>
+    <string name="login_as">Ввойти как…</string>
+    <string name="empty_accounts">Пока тут пусто</string>
+    <string name="add_account">Добавить аккаунт</string>
+    <string name="unknown_channel">Неизвестный канал. Айди: %s</string>
+    <string name="choose_guild">Выберите сервер</string>
+    <string name="foreground_channel_name">Уведомления фонового процесса</string>
+    <string name="foreground_channel_description">Уведомления про прогресс спама</string>
+    <string name="spam_size_label">Количество</string>
+    <string name="spam_size_supporting">Только цифры</string>
+    <string name="token_label">Ваш токен</string>
+    <string name="submit">Отправить</string>
+    <string name="login_is_busy">Пожалуйста, подождите…</string>
+    <string name="spam_notification">Прогресс: %s%%</string>
+    <string name="cancel">Отмена</string>
+    <string name="remember_me">Запомнить меня</string>
+    <string name="spam_settings_title">Настройте спам</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <string name="foreground_exit_error_title">Несколько ошибок сети. Останавливаюсь</string>
+    <string name="foreground_exit_error_content">Вы можете запустить это снова в приложении</string>
+    <string name="choose_channel">Выберите канал</string>
+    <string name="done">Готово</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Discord Spammer</string>
+    <string name="network_error">Помилка мережі.\nПеревірте інтернет та спробуйте знову</string>
+    <string name="invalid_token">Токен не коректний (або термін його дії закінчився)</string>
+    <string name="fail_to_load_list_of_guilds">Не вдалося завантажити сервери.\nБудь ласка, спробуйте знову</string>
+    <string name="fail_to_load_list_of_channels">Не вдалося завантажити канали.\nБудь ласка, спробуйте знову</string>
+    <string name="login_as">Ввійти як…</string>
+    <string name="empty_accounts">Поки що тут пусто</string>
+    <string name="unknown_channel">Невідомий канал. Айді: %s</string>
+    <string name="choose_guild">Оберіть сервер</string>
+    <string name="foreground_channel_name">Сповіщення фонового процесу</string>
+    <string name="add_account">Додати аккаунт</string>
+    <string name="foreground_channel_description">Сповіщення про прогресс спаму</string>
+    <string name="spam_size_label">Кількість</string>
+    <string name="spam_size_supporting">Тільки цифри</string>
+    <string name="token_label">Ваш токен</string>
+    <string name="submit">ВІдправити</string>
+    <string name="login_is_busy">Зачекайте, будь ласка…</string>
+    <string name="spam_notification">Прогрес: %s%%</string>
+    <string name="cancel">Скасувати</string>
+    <string name="remember_me">Запам\'ятати мене</string>
+    <string name="spam_settings_title">Налаштуйте спам</string>
+    <string name="logout">Вийти з облікового запису</string>
+    <string name="foreground_exit_error_title">Декілька помилок мережі. Зупиняюсь</string>
+    <string name="foreground_exit_error_content">Ви можете запустити знову в додатку</string>
+    <string name="choose_channel">Оберіть канал</string>
+    <string name="done">Готово</string>
+</resources>

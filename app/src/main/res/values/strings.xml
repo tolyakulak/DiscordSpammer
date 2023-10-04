@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Discord Spammer</string>
+    <string name="network_error">Network error.\nCheck internet and try again</string>
+    <string name="invalid_token">Token is incorrect (or expired)</string>
+    <string name="fail_to_load_list_of_guilds">Failed to load list of guilds.\nPlease try again</string>
+    <string name="fail_to_load_list_of_channels">Failed to load list of channels.\nPlease try again</string>
+    <string name="login_as">Login as…</string>
+    <string name="empty_accounts">No accounts yet</string>
+    <string name="add_account">Add account</string>
+    <string name="unknown_channel">Unknown channel. Id: %s</string>
+    <string name="choose_guild">Choose server</string>
+    <string name="foreground_channel_name">Foreground service notifications</string>
+    <string name="foreground_channel_description">Notifications about spamming process</string>
+    <string name="spam_size_label">Count</string>
+    <string name="spam_size_supporting">Only digits</string>
+    <string name="token_label">Your token</string>
+    <string name="submit">Submit</string>
+    <string name="login_is_busy">Please wait…</string>
+    <string name="spam_notification">Progress: %s%%</string>
+    <string name="cancel">Cancel</string>
+    <string name="remember_me">Remember me</string>
+    <string name="spam_settings_title">Customize spam</string>
+    <string name="logout">Logout</string>
+    <string name="foreground_exit_error_title">Multiple network errors. Terminating</string>
+    <string name="foreground_exit_error_content">You can start it again from app</string>
+    <string name="choose_channel">Choose channel</string>
+    <string name="done">Done</string>
+</resources>
