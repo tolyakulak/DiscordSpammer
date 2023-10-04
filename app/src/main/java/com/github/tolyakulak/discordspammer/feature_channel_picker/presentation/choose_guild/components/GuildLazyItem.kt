@@ -6,7 +6,6 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.CircleShape
-import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -27,7 +26,6 @@ import coil.request.ImageRequest
  * @param text Text to display. Usually name of the guild
  * @param onClick Block of code to execute when user clicks this item
  */
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun GuildLazyItem(
     iconRequest: ImageRequest,
